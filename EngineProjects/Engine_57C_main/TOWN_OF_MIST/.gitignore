@@ -1,4 +1,4 @@
-*
-!.gitignore
-!Config/
-!Config/**
+**
+# !.gitignore
+# !Config/
+# !Config/**
